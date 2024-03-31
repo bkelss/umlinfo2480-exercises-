@@ -1,0 +1,8 @@
+{
+    "dependencies":{
+        "learncf":"git://github.com/djcard/learncf.git"
+    },
+    "installPaths":{
+        "learncf":"learncf/"
+    }
+}
